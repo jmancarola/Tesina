@@ -1,0 +1,17 @@
+LINK REPOSITORIO REMOTO
+https://github.com/jmancarola/Tesina
+
+
+PARA CARGAR ARCHIVOS AL REMOTO DESDE EL LOCAL
+1- Click derecho dentro de la carpeta "Tesina 2025" y abrir Git Bash
+2- git add .
+3- git commit
+4- (IMPORTANTE PERSIONAR LETRA I) (de insert) allí, escribo el nombre de mi commit (da igual, por ej, corrijo partitura)
+5- me quiero ir del insert, entonces apreto ESC varias veces para asegurarme y luego :wq (tengo que ver que se escriba abajo de todo y no en otro lugar)
+6- debería volver a mi consola, y ahí git push
+7- debería verse reflejado en la web el cambio
+
+
+PARA TRAER ARCHIVOS DEL REMOTO AL LOCAL
+1- mismos pasos para abrir el Bash
+2- git 
